@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu</title>
+  <style>
+    body{
+      background-color: black;
+    }
+  </style>
+</head>
+<body>
+    <style>
+      .item1 { grid-area: header; }
+      .item2 { grid-area: menu; }
+      .item3 { grid-area: main; }
+      .item4 { grid-area: right; }
+      .item5 { grid-area: footer; }
+      
+      .grid-container {
+        display: grid;
+        grid-template-areas:
+          'header header header header header header'
+          'menu main main main right right'
+          'menu footer footer footer footer footer';
+        gap: 10px;
+        /* background-color: #2196F3; */
+        padding: 10px;
+      }
+      
+      .grid-container > div {
+        /* background-color: rgba(255, 255, 255, 0.8); */
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+      }
+      </style>
+      </head>
+      <body>
+
+      <div class="grid-container">
+        <div class="item1"><a href="love.html"><img src="brainloop.gif" alt="header" style="width:90%"></a></div>
+        <div class="item2"><a href="on.html"><img src="brainloop.gif" alt="left" style="width:100%"></a></div>
+        <div class="item3"><a href="the.html"><img src="brainloop.gif" alt="middle" style="width:100%"></a></div>  
+        <div class="item4"><a href="brain.html"><img src="brainloop.gif" alt="right" style="width:100%"></a></div>
+        <div class="item5"></div>
+      </div>
+      
+      <!-- <div class="grid-container">
+        <div class="item1"><a href="page1.html"><img src="headerbox.png" alt="header" style="width:90%"></a></div>
+        <div class="item2"><img src="boxleft.png" alt="left" style="width:100%"></div>
+        <div class="item3"><a href="page1.html"><img src="middle.png" alt="middle" style="width:100%"></a></div>  
+        <div class="item4"><img src="rightbox.png" alt="right" style="width:100%"></div>
+        <div class="item5"></div>
+      </div> -->
+</body>
+</html>

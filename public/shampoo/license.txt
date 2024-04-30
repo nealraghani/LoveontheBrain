@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shampoo bottle
+* source:	https://sketchfab.com/3d-models/shampoo-bottle-d5482be7309e47c7ab569b7312407f7c
+* author:	hamid.vfx (https://sketchfab.com/hamid.vfx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shampoo bottle" (https://sketchfab.com/3d-models/shampoo-bottle-d5482be7309e47c7ab569b7312407f7c) by hamid.vfx (https://sketchfab.com/hamid.vfx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

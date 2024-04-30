@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alzheimer's Brain
+* source:	https://sketchfab.com/3d-models/alzheimers-brain-7cdda47b615c4ed88c4c7496fab0c80d
+* author:	porpiom (https://sketchfab.com/porpiom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alzheimer's Brain" (https://sketchfab.com/3d-models/alzheimers-brain-7cdda47b615c4ed88c4c7496fab0c80d) by porpiom (https://sketchfab.com/porpiom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
